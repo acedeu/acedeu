@@ -11,5 +11,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=resentful1&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acedeu&theme=gruvbox&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </p>
