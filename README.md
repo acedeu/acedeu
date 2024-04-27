@@ -1,4 +1,4 @@
-<h1 align="center">aced</h1>
+<h1>Hi 👋, I'm Aced</h1>
 <a href="https://github.com/realveal"></a>
 
 <p align="center">
