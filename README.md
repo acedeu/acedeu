@@ -11,5 +11,4 @@
 <br>
 
 <p align="center">
-           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acedeu&theme=gruvbox&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/acedeu/github-readme-stats)</p>
