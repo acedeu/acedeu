@@ -9,7 +9,3 @@
 </p>
 
 <br>
-
-<p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/acedeu/github-readme-stats)</p>
-</p>
