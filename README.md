@@ -1,5 +1,3 @@
-![Header](./Header.png)
-
 <h1 align="center">aced</h1>
 <a href="https://github.com/realveal"></a>
 
