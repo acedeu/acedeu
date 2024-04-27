@@ -2,7 +2,7 @@
 <a href="https://github.com/realveal"></a>
 
 <p align="center">
-  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=realveal&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Facedeu"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Facedeu&label=VISITORS&countColor=%232ccce4" /></a>
 </p>
 <h4 align="center">Current Known Languages:</h5>
 <p align="center">
