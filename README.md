@@ -18,7 +18,7 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
-h2>Activity</h2>
+<h2>Activity</h2>
 <p align="center">
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acedeu&layout=compact&hide_border=true&langs_count=999&theme=gruvbox">
  <br/>
