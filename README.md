@@ -5,11 +5,11 @@
 
 <b>I mess around with a bunch of stuff</b>
 
-<h2>Skills</h2>
-<p>Languages</p>
+<h2><b>Skills</b></h2>
+<p><b>Languages</b></p>
 
 <img src="https://skillicons.dev/icons?i=js,lua"/>
 
-<p>Frameworks</p>
+<p><b>Frameworks</b></p>
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
