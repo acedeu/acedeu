@@ -20,6 +20,6 @@
 
 <h2>Activity</h2>
 <p align="center">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acedeu&layout=compact&hide_border=true&langs_count=999&theme=gruvbox">
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=acedeu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
  <br/>
 </p>
