@@ -16,8 +16,7 @@
 
 <p><b>Databases</b></p>
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 <h2>Activity</h2>
 <p align="center">
