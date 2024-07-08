@@ -8,7 +8,9 @@
 <h2><b>Skills</b></h2>
 <p><b>Languages</b></p>
 
-<img src="https://skillicons.dev/icons?i=js,lua,test"/>
+<p> Currently learning</p>
+
+<img src="https://skillicons.dev/icons?i=js,lua,test,cs"/>
 
 <p><b>Frameworks</b></p>
 
