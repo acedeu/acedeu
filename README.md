@@ -10,7 +10,11 @@
 
 <p> Currently learning</p>
 
-<img src="https://skillicons.dev/icons?i=js,lua,test,cs"/>
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+---------------------------------------------------
+
+<img src="https://skillicons.dev/icons?i=js,lua"/>
 
 <p><b>Frameworks</b></p>
 
