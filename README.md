@@ -14,12 +14,6 @@
 
 ---------------------------------------------------
 
-<img src="https://skillicons.dev/icons?i=js,lua"/>
-
-<p><b>Frameworks</b></p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
 <p><b>Databases</b></p>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
