@@ -5,19 +5,6 @@
 
 <b>I mess around with a bunch of stuff</b>
 
-<h2><b>Skills</b></h2>
-<p><b>Languages</b></p>
-
-<p> Currently learning</p>
-
-<img src="https://skillicons.dev/icons?i=cs"/>
-
----------------------------------------------------
-
-<p><b>Databases</b></p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
 <h2>Activity</h2>
 <p align="center">
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=acedeu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
