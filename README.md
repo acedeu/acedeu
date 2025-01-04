@@ -3,9 +3,9 @@
 <p align="center">
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Facedeu%2Facedeu&label=Profile%20Views&countColor=%23ffd105)
 </p>
-<h4 align="center">Current Known Languages: (best ➜ least)</h5>
+<h4 align="center">Languages</h5>
 <p align="center">
-           <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs,"/>
+           <img src="https://skillicons.dev/icons?i=cs"/>
 </p>
 
 <br>
