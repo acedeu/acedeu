@@ -5,8 +5,3 @@
 
 <b>I mess around with a bunch of stuff</b>
 
-<h2>Activity</h2>
-<p align="center">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=acedeu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
- <br/>
-</p>
