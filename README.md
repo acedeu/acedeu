@@ -14,5 +14,5 @@
 <br>
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acedeu&theme=salteorange&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=acedeu&theme=salteorange&show_icons=true" alt="aced's stats" />
 </p>
