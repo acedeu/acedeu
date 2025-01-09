@@ -1,7 +1,7 @@
 <h1 align="center">acedeu</h1>
 
 <ul align="center" style="list-style: none;">
-  <li>• Currently learning C#</li>
+  <li>Currently learning C#</li>
 </ul>
 
 <p align="center">
