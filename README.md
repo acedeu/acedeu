@@ -1,8 +1,6 @@
 <h1 align="center">acedeu</h1>
 
-<ul align="center" style="list-style: none;">
-  <li>Currently learning C#</li>
-</ul>
+- Currently learning C#
 
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Facedeu%2Facedeu">
@@ -15,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=cs,github" />
 </p>
 
-<h5 align="center">Softwares</h5>
+<h4 align="center">Softwares</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider" />
 </p>
