@@ -6,9 +6,18 @@
   </a>
 </p>
 
+<ul align="center" style="list-style: none;">
+  <li>• Currently learning C#</li>
+</ul>
+
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,github" />
+</p>
+
+<h4 align="center">Softwares</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider" />
 </p>
 
 <br>
