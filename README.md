@@ -1,6 +1,6 @@
 <h1 align="center">acedeu</h1>
 
-Currently learning C#
+<p align="center">Currently learning C#</p>
 
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Facedeu%2Facedeu">
