@@ -1,6 +1,6 @@
 <h1 align="center">aced</h1>
 
-<p align="center">Currently learning C#</p>
+<p align="center">College Student, learning languages.</p>
 
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Facedeu%2Facedeu">
