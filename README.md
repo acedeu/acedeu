@@ -10,7 +10,7 @@
 
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,github" />
+  <img src="https://skillicons.dev/icons?i=js,css,html,cs,github" />
 </p>
 
 <h4 align="center">Softwares</h4>
