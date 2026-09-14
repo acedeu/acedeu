@@ -1,7 +1,5 @@
 <h1 align="center">aced</h1>
 
-<p align="center">College Student, learning languages.</p>
-
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Facedeu%2Facedeu">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Facedeu%2Facedeu&label=Profile%20Views&countColor=%23ffd105&style=flat" />
@@ -17,5 +15,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider" />
 </p>
-
 <br>
