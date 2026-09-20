@@ -13,6 +13,6 @@
 
 <h4 align="center">Softwares</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,webstorm" />
 </p>
 <br>
